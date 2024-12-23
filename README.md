@@ -22,7 +22,7 @@ This batch script helps manage and launch two applications: **Apple Music** and 
 
 ## Installation 📥
 
-1. Clone or download this repository to your local machine.
+1. Download the bat file from [Releases](https://github.com/Swoyamjeetcodes/Apple-Music-Discord-RPC-modified/releases).
 2. Open the script file `Apple Music.bat` in a text editor.
 3. Verify and update the paths to `AppleMusic.exe` and `AMWin-RichPresence.exe` **(IMPORTANT)**.
 
