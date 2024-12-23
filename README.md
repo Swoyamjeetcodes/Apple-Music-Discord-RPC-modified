@@ -17,14 +17,14 @@ This batch script helps manage and launch two applications: **Apple Music** and 
 
 - Windows OS
 - Installed versions of:
-  - **Apple Music**: Located at `C:\Program Files\WindowsApps\AppleInc.AppleMusicWin_1.1282.14849.0_x64__nzyj5cx40ttqa\AppleMusic.exe`
+  - **Apple Music**: Usually Located at(Check for your locations) `C:\Program Files\WindowsApps\AppleInc.AppleMusicWin_1.1282.14849.0_x64__nzyj5cx40ttqa\AppleMusic.exe`
   - **AMWin-RichPresence**: Download it from [AMWin-RP Releases](https://github.com/PKBeam/AMWin-RP/releases)
 
 ## Installation 📥
 
 1. Clone or download this repository to your local machine.
-2. Open the script file `launcher.bat` in a text editor.
-3. Verify and update the paths to `AppleMusic.exe` and `AMWin-RichPresence.exe` if necessary.
+2. Open the script file `Apple Music.bat` in a text editor.
+3. Verify and update the paths to `AppleMusic.exe` and `AMWin-RichPresence.exe` **(IMPORTANT)**.
 
 ## Usage 🚀
 
