@@ -17,7 +17,7 @@ This batch script helps manage and launch two applications: **Apple Music** and 
 
 - Windows OS
 - Installed versions of:
-  - **Apple Music**: Located at [Apple Music Release](https://github.com/PKBeam/AMWin-RP/releases) `C:\Program Files\WindowsApps\AppleInc.AppleMusicWin_1.1282.14849.0_x64__nzyj5cx40ttqa\AppleMusic.exe`
+  - **Apple Music**: Located at `C:\Program Files\WindowsApps\AppleInc.AppleMusicWin_1.1282.14849.0_x64__nzyj5cx40ttqa\AppleMusic.exe`
   - **AMWin-RichPresence**: Download it from [AMWin-RP Releases](https://github.com/PKBeam/AMWin-RP/releases)
 
 ## Installation 📥
