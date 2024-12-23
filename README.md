@@ -26,6 +26,14 @@ This batch script helps manage and launch two applications: **Apple Music** and 
 2. Open the script file `Apple Music.bat` in a text editor.
 3. Verify and update the paths to `AppleMusic.exe` and `AMWin-RichPresence.exe` **(IMPORTANT)**.
 
+To update the paths for the applications:
+1. Open `Apple Music.bat` in a text editor.
+2. Modify the following lines to reflect the correct paths for your system:
+   ```batch
+   set "appleMusicPath=C:\Path\To\AppleMusic.exe"
+   set "amRichPresencePath=C:\Path\To\AMWin-RichPresence.exe"
+   ```
+
 ## Usage 🚀
 
 1. Double-click the `Apple Music.bat` file to run the script.
@@ -39,17 +47,6 @@ This batch script helps manage and launch two applications: **Apple Music** and 
    cmd.exe /C "path-to-your-batch"
    ```
 3. You can also rename the shortcut to "Apple Music" and assign it an icon file (.ico) similar to Apple Music's logo for a polished look.
-
-## Customization 🛠️
-
-To update the paths for the applications:
-
-1. Open `launcher.bat` in a text editor.
-2. Modify the following lines to reflect the correct paths for your system:
-   ```batch
-   set "appleMusicPath=C:\Path\To\AppleMusic.exe"
-   set "amRichPresencePath=C:\Path\To\AMWin-RichPresence.exe"
-   ```
 
 ## Troubleshooting ❓
 
